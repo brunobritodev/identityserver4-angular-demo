@@ -1,4 +1,4 @@
-# ASP.NET Core & IdentityServer4 - Acessando recursos protegidos
+# IdentityServer4 - Adicionando suporte a usuários no Angular em 10 minutos
 <img src="https://www.brunobrito.net.br/content/images/2019/12/capa-redes-sociais.png" width="480" />
 
 Example App - Adding users feature to Angular though OpenId Connect with IdentityServer4 SSO
