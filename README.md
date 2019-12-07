@@ -1,5 +1,5 @@
 # ASP.NET Core & IdentityServer4 - Acessando recursos protegidos
-<img src="https://www.brunobrito.net.br/content/images/2018/08/capa-redes.jpg" width="480" />
+<img src="https://www.brunobrito.net.br/content/images/2019/12/capa-redes-sociais.png" width="480" />
 
 Example App - Adding users feature to Angular though OpenId Connect with IdentityServer4 SSO
 
